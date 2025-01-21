@@ -1,6 +1,4 @@
 .pytest_cache
 venv
 __pycache__
-dist/
-build/
 .DS_Store
